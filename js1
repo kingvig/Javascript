@@ -1,0 +1,4 @@
+let age;
+let userName;
+
+userName == "king" ? console.log('you are logged in king') : console.log('enter a valid username');

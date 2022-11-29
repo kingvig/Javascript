@@ -1,0 +1,5 @@
+var myName;
+let age;
+age = 24;
+
+var name = kingArthur;
